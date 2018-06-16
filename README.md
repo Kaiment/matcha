@@ -10,7 +10,6 @@
 - [ ] Se **DECONNECTER** depuis n'importe quelle page du site.
 
 ## Profil de l'utilisateur
-### Profil utilisateur
 - [ ] Son **GENRE**.
 - [ ] Son **ORIENTATION SEXUELLE**.
 - [ ] Une **BIO** courte.
