@@ -2,7 +2,7 @@
 
 ## Utilisateur
 - [ ] Demande **E-MAIL**, **LOGIN**, **NOM**, **PRENOM** et **PASSWORD**.
-- [ ] E-MAIL de **CONFIRMATION**.
+- [ ] **E-MAIL de CONFIRMATION**.
 - [ ] Pouvoir se **CONNECTER**.
 - [ ] Recevoir un E-MAIL pour **RESET PASSWORD** en cas d'oubli.
 - [ ] Se **DECONNECTER** depuis n'importe quelle page du site.
@@ -14,7 +14,7 @@
 - [ ] Une liste d'**INTERETS** sous forme de **tag** (ex: #vegan...).
 - [ ] Des **PHOTOS** max 5 donc une qui servira de **PHOTO DE PROFIL**.
 - [ ] Possibilité de tout **MODIFIER** a tout moment.
-- [ ] **RESET PASSWORD**
+- [ ] **RESET PASSWORD**.
 - [ ] Pouvoir **CONSULTER LES PROFILS** des gens qui ont consulté ou **liké** le sien.
 - [ ] **SCORE DE POPULARITE PUBLIC**.
 - [ ] **GEOLOCALISATION** a l'arrondissement près si **autorisé ou non**.
@@ -30,7 +30,7 @@
 - [ ] Liste **TRIABLE** par **âge**, **localisation**, **popularité** et **tags en communs**.
 - [ ] Liste **FILTRABLE** par **intervalle d'âge**, **localisation**, **intervalle de popularité** et **tags**.
 
-## RECHERCHE
+## Recherche
 - [ ] **intervalle d'AGE**.
 - [ ] **intervalle de SCORE DE POPULARITE**.
 - [ ] **LOCALISATION**.
