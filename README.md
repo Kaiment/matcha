@@ -19,7 +19,7 @@
 - [ ] **SCORE DE POPULARITE PUBLIC**.
 - [ ] **GEOLOCALISATION** a l'arrondissement près si **autorisé ou non**.
 
-##Match
+## Match
 - [ ] **LISTE DE SUGGESTION** du match total aux plus partiels.
 - [ ] **INDISPONIBLE TANT QUE LE PROFIL EST INCOMPLET**, invitation à le remplir.
 - [ ] Match avec au moins **1 CRITERE** en commun. **BISEXUALITE A GERER considérée par défaut** si rien la sexualité n'est pas signalée. **MELER INTELLIGEMMENT (en respectant l'ordre)**:
@@ -30,14 +30,14 @@
 - [ ] Liste **TRIABLE** par **âge**, **localisation**, **popularité** et **tags en communs**.
 - [ ] Liste **FILTRABLE** par **intervalle d'âge**, **localisation**, **intervalle de popularité** et **tags**.
 
-##Recherche
+## Recherche
 - [ ] **intervalle d'AGE**.
 - [ ] **intervalle de SCORE DE POPULARITE**.
 - [ ] **LOCALISATION**.
 - [ ] **1 OU PLUSIEURS TAGS**.
 - [ ] **TRIABLE et FILTRABLE** comme la liste de suggestions.
 
-##Profil des autres utilisateurs
+## Profil des autres utilisateurs
 - [ ] **TOUTES LES INFOS** sauf e-mail et mot de passe.
 - [ ] Le profil visité doit **APPARAITRE DANS L'HISTORIQUE des recherches**.
 - [ ] Pouvoir **LIKER OU UNLIKER** si il y a au moins un photo.
