@@ -1,6 +1,7 @@
 const router = require('express').Router();
 const signup = require('./signup');
 const signin = require('./signin');
+const setup = require('./setup');
 
 router.get('/', (req, res) => {
     res.render(__dirname + "/../views/index.pug");
@@ -15,5 +16,6 @@ router.get('/soundboard', (req, res) => {
 
 router.use('/signup', signup);
 router.use('/signin', signin);
+router.use('/setup', setup);
 
 module.exports = router;

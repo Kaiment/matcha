@@ -1,12 +1,17 @@
-let Controller = function() {};
+let model = require('./model');
 
-Controller.prototype.signup = data => {
-    if (!check_password(data.password, data.confirm_password))
-        throw "Passwords don't match";
+exports.signup = data => {
+    //model.createUser(data);
+    //check_password(data.password, data.confirm_password, 7, "[0-9]");
+    //model.getUser({ $or: [ { 'name': "e" }, { 'email': "e@e"} ] });
+    //model.createUser(data);
 }
 
-module.exports = new Controller();
-
-function check_password(pass, ssap) {
-    return (pass === ssap)
+function check_password(pass, ssap, length, required) {
+    if (pass !== ssap)
+        throw "Passwords don't match";
+    if (pass.length <= length)
+        throw "Password too short";
+    if (!pass.match(required))
+        throw "Password doesn't match requirements";
 }
