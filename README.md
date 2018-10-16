@@ -1,7 +1,7 @@
 # MATCHA TO-DO
 
 ## Utilisateur
-- [ ] Demande **E-MAIL**, **LOGIN**, **NOM**, **PRENOM** et **PASSWORD**.
+- [x] Demande **E-MAIL**, **LOGIN**, **NOM**, **PRENOM** et **PASSWORD**.
 - [ ] **E-MAIL de CONFIRMATION**.
 - [ ] Pouvoir se **CONNECTER**.
 - [ ] Recevoir un E-MAIL pour **RESET PASSWORD** en cas d'oubli.
