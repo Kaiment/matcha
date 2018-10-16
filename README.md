@@ -2,16 +2,16 @@
 
 ## Utilisateur
 - [x] Demande **E-MAIL**, **LOGIN**, **NOM**, **PRENOM** et **PASSWORD**.
-- [ ] **E-MAIL de CONFIRMATION**.
-- [ ] Pouvoir se **CONNECTER**.
+- [x] **E-MAIL de CONFIRMATION**.
+- [x] Pouvoir se **CONNECTER**.
 - [ ] Recevoir un E-MAIL pour **RESET PASSWORD** en cas d'oubli.
-- [ ] Se **DECONNECTER** depuis n'importe quelle page du site.
+- [x] Se **DECONNECTER** depuis n'importe quelle page du site.
 
 ## Profil de l'utilisateur
-- [ ] Son **GENRE**.
-- [ ] Son **ORIENTATION SEXUELLE**.
-- [ ] Une **BIO** courte.
-- [ ] Une liste d'**INTERETS** sous forme de **tag** (ex: #vegan...).
+- [x] Son **GENRE**.
+- [x] Son **ORIENTATION SEXUELLE**.
+- [x] Une **BIO** courte.
+- [x] Une liste d'**INTERETS** sous forme de **tag** (ex: #vegan...).
 - [ ] Des **PHOTOS** max 5 donc une qui servira de **PHOTO DE PROFIL**.
 - [ ] Possibilité de tout **MODIFIER** a tout moment.
 - [ ] **RESET PASSWORD**.
