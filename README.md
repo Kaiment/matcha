@@ -4,7 +4,7 @@
 - [x] Demande **E-MAIL**, **LOGIN**, **NOM**, **PRENOM** et **PASSWORD**.
 - [x] **E-MAIL de CONFIRMATION**.
 - [x] Pouvoir se **CONNECTER**.
-- [ ] Recevoir un E-MAIL pour **RESET PASSWORD** en cas d'oubli.
+- [x] Recevoir un E-MAIL pour **RESET PASSWORD** en cas d'oubli.
 - [x] Se **DECONNECTER** depuis n'importe quelle page du site.
 
 ## Profil de l'utilisateur
